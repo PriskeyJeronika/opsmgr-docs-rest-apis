@@ -1,6 +1,7 @@
 ### YamlMime:RESTOperation
 uid: <servername>.operationsmanager.operationsmanager.data.retrievetopologyimagebyimageid
 name: Retrieve Topology Image by Image ID
+ms.topic: article
 service: Operations Manager
 groupName: Data
 apiVersion: v1
